@@ -8,7 +8,7 @@ WebAssembly is very young, and this is the first .wasm based library designed to
 
 ### Demo & Starter Kit
 
-Check out the [demo video editor](http://tiny.cc/webdsp) and [corresponding repo](https://github.com/shamadee/web-dsp-demo).<br>
+Check out the [demo video editor](https://d2jta7o2zej4pf.cloudfront.net/) and [corresponding repo](https://github.com/shamadee/web-dsp-demo).<br>
 
 To quickly start working with WebAssembly and to build your own modules, please see our started WebAssembly work environment you can npm install and launch [wasm-init](https://www.npmjs.com/package/wasm-init).
 
